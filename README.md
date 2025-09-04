@@ -39,7 +39,7 @@ Your GitHub Actions workflow will need credentials to interact with Azure and AC
   ```json
   {
     "clientId": "d7f44ea9-cd04-4863-8b28-b750506e860e",
-    "clientSecret": "d4c1347c-6189-4c19-a7bb-eeb37bbf4092",
+    "clientSecret": "3PI8Q~~K2tKdydNk6kfFldVlZV0gCCtpoGfOOceo",
     "subscriptionId": "80a78c3c-cae9-4766-a0d5-a4f8cef6e5c9",
     "tenantId": "2625129d-99a2-4df5-988e-5c5d07e7d0fb"
   }
